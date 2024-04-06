@@ -1,0 +1,38 @@
+
+
+
+body{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff; 
+    font-size: larger;
+
+}   
+#results{
+    font-size: x-large;
+    
+}
+
+#main{
+    border: 2px solid ;
+    padding: 20px;
+    background-color: gray;
+    border-radius: 20px;
+
+}
+#height{
+    margin: 15px;
+}
+#weight{
+    margin: 15px;
+}
+button{
+    background-color: rgb(60, 117, 224);
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 15px;
+    padding: 5px -50px;
+}
